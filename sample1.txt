@@ -1,2 +1,0 @@
-Sample 1 0000
-sample.txt file 123
